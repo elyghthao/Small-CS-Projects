@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e3d4e3-333a-4349-ad3d-1b49ca79459b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586592295616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mnj">
+      <created>1586593328974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586593328974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,18 +91,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.54.1280.984@0.0.1920.1040" timestamp="1586592299548" />
-    <state x="614" y="117" key="CommitChangelistDialog2" timestamp="1586592294998">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2329" y="165" key="CommitChangelistDialog2" timestamp="1586593328155">
+      <screen x="1920" y="54" width="1280" height="984" />
     </state>
     <state x="614" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.54.1280.984@0.0.1920.1040" timestamp="1586592294998" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1586592990169">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2329" y="165" key="CommitChangelistDialog2/0.0.1920.1040/1920.54.1280.984@1920.54.1280.984" timestamp="1586593328155" />
+    <state x="2413" y="315" key="FileChooserDialogImpl" timestamp="1586593386065">
+      <screen x="1920" y="54" width="1280" height="984" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1280.984@0.0.1920.1040" timestamp="1586592990169" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1586592313691">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2413" y="315" key="FileChooserDialogImpl/0.0.1920.1040/1920.54.1280.984@1920.54.1280.984" timestamp="1586593386065" />
+    <state x="2288" y="294" key="Vcs.Push.Dialog.v2" timestamp="1586593334703">
+      <screen x="1920" y="54" width="1280" height="984" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1280.984@0.0.1920.1040" timestamp="1586592313691" />
+    <state x="2288" y="294" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.54.1280.984@1920.54.1280.984" timestamp="1586593334703" />
     <state x="342" y="141" key="new project wizard" timestamp="1586592099151">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
